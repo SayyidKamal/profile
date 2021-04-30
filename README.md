@@ -1,6 +1,6 @@
 # profile
 
-An app profile about oneself.
+Portfolio app.
 
 ## Getting Started
 
